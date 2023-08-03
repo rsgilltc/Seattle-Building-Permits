@@ -1,5 +1,6 @@
 The data for Seattle building permits is analyzed in project. 
-Use CSV file for the RAW data and transformed data is the building-permits-current excel file.
-Power query and excel is used for data cleaning and transformation.
+Use CSV file for the RAW data.
+Removal of duplicates, blank cells, were performed in excel. 
+Conditional columns were created in power query.
 Power BI is used for visulatizations.
 See report in MS power point format.
